@@ -1,0 +1,59 @@
+body{
+  background-image: url(./assets/imagenes/interior.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;  
+  overflow-x: hidden;
+  
+  
+}
+
+
+.App{
+  text-align: left;
+  color: rgb(2, 2, 2);  
+  
+}
+.Titulo{
+  font-family: 'brush script mt';
+  font-size: 400%;
+  margin-top: -3%;
+  margin-left: 5%;
+}
+
+.Titulo2{
+  font-family: 'brush script mt';
+  font-size: 400%;
+  margin-top: -3%;
+  margin-left: 4%;
+}
+
+.navbar{
+  left: 63%;  
+}
+
+.Subtitulo{
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 10%;
+}
+
+.Habitacion1{
+  margin-left: 25%;
+  font-family: 'Merriweather';
+}
+.Habitacion2{
+  margin-left: 5%;
+  font-family: 'Merriweather';
+  
+}
+.Habitacion3{
+  margin-left: 5%;
+  font-family: 'Merriweather';
+  color: white;
+  border-color: black;
+}
+
+
+
+
+
